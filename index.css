@@ -25,6 +25,10 @@ h3 {
   text-transform: uppercase;
 }
 
+.hero {
+  border-radius: 50%;
+}
+
 .flex {
   display: flex;
   justify-content: center;
